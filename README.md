@@ -1,6 +1,6 @@
 # 🛡️ Botium-Toys-Security-Audit
 ## Table of Contents
-- [Introduction](#introduction)
+- [Introduction]_(#Introduction)
 - [Scenario](#scenario)
 - [Internal Security Audit Workflow](#internal-security-audit-workflow)
 - [Controls Assessment](#controls-assessment)
